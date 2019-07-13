@@ -1,0 +1,21 @@
+.new-person {
+  border: 2px solid #adebad;
+  padding: 20px;
+  background-color: #eafaea;
+  margin-top: 20px;
+}
+
+.edit-person {
+  border: 2px solid #b3d1ff;
+  padding: 20px;
+  background-color: #e6f0ff;
+  margin-top: 20px;
+}
+
+.form-item {
+  padding: 12px;
+}
+
+.errors {
+  color: red;
+}
